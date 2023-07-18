@@ -1,1 +1,1 @@
-InstanceHub monitors and manages the service status of all services.
+InstanceHub Client for obtaining registered services and obtaining service status.
